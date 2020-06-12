@@ -9,7 +9,10 @@ dataset can be found at the following link: https://www.cdc.gov/tobacco/data_sta
 There are 4 files of data, denoted with .csv, along with corresponding 4 data dictionaries, denoted with .pdf.
 These should include:
 
-e-cigarette-reasons.csv
-student-info.csv
-tobacco-frequency.csv
-tobacco-tried.csv
+1. e-cigarette-reasons.csv
+
+2. student-info.csv
+
+3. tobacco-frequency.csv
+
+4. tobacco-tried.csv
